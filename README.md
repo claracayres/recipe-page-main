@@ -10,7 +10,7 @@ This project is a solution for the [Frontend Mentor](https://www.frontendmentor.
 
 ### Mobile
 
-![Mobile](assets/images/mobile.png)
+<img src="assets/images/mobile.png" alt="Mobile" width="250"/>
 
 ## 🔗 Links
 
